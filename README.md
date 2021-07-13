@@ -1,3 +1,4 @@
 # license-test
 
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+https://img.shields.io/badge/good-times-orange
+
